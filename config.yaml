@@ -1,0 +1,35 @@
+brew:
+  - docker
+  - docker-compose
+  - docker-machine-driver-xhyve
+  - git
+  - solo-io/tap/glooctl
+  - go
+  - gradle
+  - helm
+  - jenkins-x/jx/jx
+  - kubeseal
+  - maven
+  - node
+  - openshift-cli
+  - python
+  - ruby
+  - sops
+  - pivotal/tap/springboot
+  - travis
+  - xhyve
+  - zsh
+  - zsh-completions
+
+brewCask:
+  - adoptopenjdk
+  - docker
+  - intellij-idea
+  - postman
+  - sonos
+  - vlc
+  - cakebrew
+  - dropbox
+  - iterm2
+  - slack
+  - teamviewer
