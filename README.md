@@ -1,6 +1,7 @@
 # brew-config
 
-## Install all packages
+## Install all packages
+
 ```shell script
 update.sh
 ```
