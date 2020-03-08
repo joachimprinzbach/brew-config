@@ -1,3 +1,4 @@
+argoproj/tap/argocd
 docker
 docker-compose
 docker-machine-driver-xhyve
@@ -18,6 +19,8 @@ python
 ruby
 sops
 pivotal/tap/springboot
+solo-io/tap/supergloo
+tektoncd/tools/tektoncd-cli
 travis
 xhyve
 zsh
