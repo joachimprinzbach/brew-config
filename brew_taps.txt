@@ -1,8 +1,6 @@
-argoproj/tap/argocd
-jenkins-x/jx/jx
-kong/kong/kong
-kong/kong/openresty
-pivotal/tap/springboot
-solo-io/tap/glooctl
-solo-io/tap/supergloo
-tektoncd/tools/tektoncd-cli
+argoproj/tap
+jenkins-x/jx
+kong/kong
+pivotal/tap
+solo-io/tap
+tektoncd/tools
