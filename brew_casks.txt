@@ -1,6 +1,7 @@
 adoptopenjdk
 adoptopenjdk8
 cakebrew
+discord
 docker
 dropbox
 intellij-idea
@@ -9,4 +10,5 @@ postman
 slack
 sonos
 teamviewer
+visual-studio-code
 vlc

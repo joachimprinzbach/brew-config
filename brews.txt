@@ -10,6 +10,7 @@ helm
 istioctl
 jenkins
 jenkins-x/jx/jx
+kong/kong/kong
 kubernetes-cli
 kubeseal
 maven
