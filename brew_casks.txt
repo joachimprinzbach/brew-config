@@ -7,6 +7,7 @@ dropbox
 intellij-idea
 iterm2
 postman
+skype-for-business
 slack
 sonos
 teamviewer
