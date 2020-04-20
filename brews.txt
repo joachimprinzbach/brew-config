@@ -1,3 +1,4 @@
+argoproj/tap/argo
 argoproj/tap/argocd
 docker
 docker-compose
@@ -14,7 +15,9 @@ kong/kong/kong
 kubernetes-cli
 kubeseal
 maven
+minio/stable/mc
 node
+kong/kong/openresty
 openshift-cli
 python
 ruby

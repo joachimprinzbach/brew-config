@@ -7,11 +7,12 @@ dropbox
 intellij-idea
 iterm2
 postman
-rescuetime
+skype
 skype-for-business
 slack
 sonos
 spotify
+spotmenu
 teamviewer
 visual-studio-code
 vlc
